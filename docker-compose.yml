@@ -2,8 +2,8 @@ version: "3.8"
 
 services:
   aetherx:
-    image: Queenhazelpro/queenhanzelpro:latest
-    container_name: Queenhazel
+    image: queenhazelpro/queenhazel:latest
+    container_name: queenhazel
     network_mode: host
     restart: always
     pull_policy: always
