@@ -33,7 +33,7 @@ jobs:
           context: .
           platforms: linux/amd64
           push: true
-          tags: queenhazelpro/queenhazelpro:latest
+          tags: Queenhazelpro/queenhanzelpro:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max
           
